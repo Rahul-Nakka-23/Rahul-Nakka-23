@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Hi, I'm Rahul!<br>I'm a technophile passionate about machine learning and driven to explore innovative technologies. With a knack for problem-solving, I specialize in web development, app development, and AWS. My journey is all about blending creativity and technical expertise to tackle real-world challenges. Let's innovate together! 🚀
+🌟 Hi, I'm Rahul!<br>I'm a technophile passionate about machine learning and driven to explore innovative technologies. With a knack for problem-solving, I specialize in web development, app development, and AWS.
 
 
 ## 🌐 Socials:
