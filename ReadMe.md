@@ -2,7 +2,7 @@
 # Hi there, I'm Rahul Nakka...👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+;Technophile;Problem+solver+)](https://git.io/typing-svg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+;Technophile;Problem+solver" alt="Typing SVG" />
 </div>
 
 
@@ -35,8 +35,6 @@ const skills = {
 - To Learn about AI and ML 
 - To contribute open source projects 
 - Build portfolio
-## 🤝 Connect With Me
-<div align="center">
 
 </div>
 
