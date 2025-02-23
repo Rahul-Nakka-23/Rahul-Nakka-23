@@ -2,7 +2,7 @@
 # Hi there, I'm Rahul Nakka...👋
 
 <div align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+;Technophile;Problem+solver+)](https://git.io/typing-svg)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+;Technophile;Problem+solver+)](https://git.io/typing-svg" alt="Typing SVG" />
 </div>
 
 
@@ -24,7 +24,7 @@ const skills = {
 ## 📊 GitHub & LeetCode Stats
 
 <div align="center">
-  <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul-Nakka-23&theme=gotham&show_icons=true&hide_border=true&count_private=true)" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Nakka-23&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   
   <!-- LeetCode Stats Card -->
   <img src="https://leetcard.jacoblin.cool/Rahul_Nakka?theme=dark&font=Noto%20Sans%20Glagolitic" alt="LeetCode Stats" />
