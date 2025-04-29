@@ -2,7 +2,7 @@ name: Generate Monkeytype README SVG
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # every 6 hours
+    - cron: "0 */6 * * *"  # Every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -18,13 +18,16 @@ jobs:
         with:
           node-version: '16.x'
 
+      - name: Print Working Directory (debug)
+        run: pwd
+
       - name: Download SVGs
         run: |
           mkdir -p public
-          curl -o public/monkeytype-readme.svg https://monkeytype-readme.com/generate-svg/n.rahul/rainbow_trail
-          curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.com/generate-svg/n.rahul/rainbow_trail?lb=true
-          curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.com/generate-svg/n.rahul/rainbow_trail?pb=true
-          curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.com/generate-svg/n.rahul/rainbow_trail?lbpb=true
+          curl -v -o public/monkeytype-readme.svg https://monkeytype-readme.com/generate-svg/n.rahul/rainbow_trail
+          curl -v -o public/monkeytype-readme-lb.svg https://monkeytype-readme.com/generate-svg/n.rahul/rainbow_trail?lb=true
+          curl -v -o public/monkeytype-readme-pb.svg https://monkeytype-readme.com/generate-svg/n.rahul/rainbow_trail?pb=true
+          curl -v -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.com/generate-svg/n.rahul/rainbow_trail?lbpb=true
 
       - name: Push monkeytype-readme.svg to the monkeytype-readme branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
@@ -33,3 +36,4 @@ jobs:
           build_dir: public
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
