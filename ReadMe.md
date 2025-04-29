@@ -85,12 +85,16 @@ I'm a technophile passionate about machine learning and driven to explore innova
   <img src="https://leetcard.jacoblin.cool/Rahul_Nakka?theme=dark&font=Noto%20Sans%20Glagolitic" alt="LeetCode Stats" />
 </div>
 
-## 🎯 Current Focus
+#
+<div><img src="https://raw.githubusercontent.com/Rahul-Nakka-23/Rahul-Nakka-23/output/snake.svg" alt="Snake animation" /></div>
+
+
+
+# 🎯 Current Focus
 - Solving algorithmic problems on LeetCode.
 - To Learn about AI and ML 
 - To contribute open source projects 
 - Build portfolio
 
-</div>
 
 
