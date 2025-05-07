@@ -85,8 +85,7 @@ I'm a technophile passionate about machine learning and driven to explore innova
   <img src="https://leetcard.jacoblin.cool/Rahul_Nakka?theme=dark&font=Noto%20Sans%20Glagolitic" alt="LeetCode Stats" />
 </div>
 
-#
-<div><img src="https://raw.githubusercontent.com/Rahul-Nakka-23/Rahul-Nakka-23/output/snake.svg" alt="Snake animation" /></div>
+
 
 
 
