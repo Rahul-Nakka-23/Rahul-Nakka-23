@@ -14,9 +14,8 @@
 # Hi there, I'm Rahul Nakka...👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+;Technophile;Problem+solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Embedded+Engineer;Web+Developer;Problem+Solver;Innovator" alt="Typing SVG" />
 </div>
-
 
 ## 👨‍💻 About Me...
 🌟 Hi, I'm Rahul!
